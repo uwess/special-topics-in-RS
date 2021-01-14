@@ -1,7 +1,7 @@
 # special-topics-in-RS
 # Analysing the Changes of Lake Water Extent Using Remote Sensing 
 - Lake in 1997, 2013 and 2020 were analyzed and interpreted with remote sensing data. For this, images of three years were obtained from Landsat 5 TM and Landsat 8 OLI / TIRS satellites.
-- WRI, NDWI, MNDWI indices were used to monitor the changes in water areas during the analysis phase. The images obtained as a result of the indexes were classified and the area of the water areas was calculated and the shrinkage on the lake surface was calculated.
+-  NDVI indice was used to monitor the changes in water areas during the analysis phase. The images obtained as a result of the indice were classified and the area of the water areas was calculated and the shrinkage on the lake surface was calculated.
 
 # DATA SET
 - 20 JULY 1997
